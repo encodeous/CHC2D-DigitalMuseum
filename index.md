@@ -14,5 +14,6 @@ This image shows one of the early radios. It is important to this topic because 
 
 ## Bibliography
 
+*(Due to technical limitations, the bibliography is made in google docs to preserve proper formatting)*
 
-
+https://docs.google.com/document/d/1fqLx_E6mFav8BWfY12Tn0fue97kkEL-9YV0ESRx925Q/edit?usp=sharing
