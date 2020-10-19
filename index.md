@@ -4,6 +4,21 @@ published: true
 ---
 # How did advancements in technology during the Great War Era change the lives of Canadians?
 
+### During this period, rapid advancements in technology changed the lives of Canadians, and people around the world!
 
+<<<<<<< HEAD
 
 ![Barbara Frum](https://tce-live2.s3.amazonaws.com/media/media/thumbnails/41049960-6ca3-4282-8cbd-322c20e47f42.jpg)
+=======
+#### Image 1
+
+![Radio](https://inktank.fi/wp-content/uploads/2016/02/Radio-broadcast-in-the-1920s.jpg)
+
+This image shows one of the early radios. It is important to this topic because in the 1920's radio was starting to enter the the entertainment and news industry.
+
+## Bibliography
+
+*(Due to technical limitations, the bibliography is made in google docs to preserve proper formatting)*
+
+https://docs.google.com/document/d/1fqLx_E6mFav8BWfY12Tn0fue97kkEL-9YV0ESRx925Q/edit?usp=sharing
+>>>>>>> 95724ba0a6a6f4b47422763a128f1f16096e04be
