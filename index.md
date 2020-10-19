@@ -6,19 +6,18 @@ published: true
 
 ### During this period, rapid advancements in technology changed the lives of Canadians, and people around the world!
 
-<<<<<<< HEAD
-
-![Barbara Frum](https://tce-live2.s3.amazonaws.com/media/media/thumbnails/41049960-6ca3-4282-8cbd-322c20e47f42.jpg)
-=======
-#### Image 1
+#### Radios [(Source)](https://inktank.fi/disruptive-decades-technologies-that-revolutionized-the-1920s)
 
 ![Radio](https://inktank.fi/wp-content/uploads/2016/02/Radio-broadcast-in-the-1920s.jpg)
 
 This image shows one of the early radios. It is important to this topic because in the 1920's radio was starting to enter the the entertainment and news industry.
 
+### Improvements in Household Technology [(Source)](https://caperpics.wordpress.com/tag/capers/)
+
+![](https://caperpics.files.wordpress.com/2011/03/sears_wash-scaled600.jpg?w=486&h=656)
+
 ## Bibliography
 
-*(Due to technical limitations, the bibliography is made in google docs to preserve proper formatting)*
+*(Due to technical limitations, the bibliography is made in Google Docs to preserve proper formatting)*
 
-https://docs.google.com/document/d/1fqLx_E6mFav8BWfY12Tn0fue97kkEL-9YV0ESRx925Q/edit?usp=sharing
->>>>>>> 95724ba0a6a6f4b47422763a128f1f16096e04be
+[https://docs.google.com/document/d/1fqLx_E6mFav8BWfY12Tn0fue97kkEL-9YV0ESRx925Q/edit?usp=sharing](https://docs.google.com/document/d/1fqLx_E6mFav8BWfY12Tn0fue97kkEL-9YV0ESRx925Q/edit?usp=sharing)
