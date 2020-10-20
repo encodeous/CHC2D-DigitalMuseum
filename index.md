@@ -4,6 +4,10 @@ published: true
 ---
 # How did advancements in technology during the Great War Era change the lives of Canadians?
 
+### Background
+
+
+
 ### Table of Contents
  - [Artifacts](#artifacts)
  - [Inquiry Question](#paragraph)
@@ -20,6 +24,8 @@ This image shows one of the early radios. It is important to this topic because 
 #### Improvements in Household Technology [(Source)](https://caperpics.wordpress.com/tag/capers/)
 
 ![](https://caperpics.files.wordpress.com/2011/03/sears_wash-scaled600.jpg?w=486&h=656)
+
+This image shows a newspaper advertisement about a new Electric Washer product. This is important to this topic because for the first time in history, people could let the machines do the work— saving people's time.
 
 ## Inquiry Question<a name="paragraph" />
 
