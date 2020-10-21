@@ -15,19 +15,36 @@ published: true
 
 ### Artifacts<a name="artifacts"/>
 
-#### Radios [(Source)](https://inktank.fi/disruptive-decades-technologies-that-revolutionized-the-1920s)
+#### 1. Radios [(Source)](https://inktank.fi/disruptive-decades-technologies-that-revolutionized-the-1920s)
 
 ![Radio](https://inktank.fi/wp-content/uploads/2016/02/Radio-broadcast-in-the-1920s.jpg)
 
 This image shows one of the early radios. It is important to this topic because in the 1920's radio was starting to dominate the the entertainment and news industry, taking over the traditional mediums.
 
-#### Improvements in Household Technology [(Source)](https://caperpics.wordpress.com/tag/capers/)
+#### 2. Improvements in Household Technology [(Source)](https://caperpics.wordpress.com/tag/capers/)
 
 ![Advertisement](https://caperpics.files.wordpress.com/2011/03/sears_wash-scaled600.jpg?w=486&h=656)
 
 This image shows a newspaper advertisement about a new Electric Washer product. This is important to this topic because for the first time in history, people could let the machines do the work— saving people's time.
 
 
+#### 3. IBM's Punchcards [(Source)](https://www.wired.com/2012/11/the-decades-that-invented-the-future-part-3-1921-1930/)
+
+![Punch Card](https://www.wired.com/wp-content/uploads/images_blogs/gadgetlab/2012/11/punched_card-660x290.jpg)
+
+This image shows one of the first punch cards for the Data Processing machines that IBM created. This is significant because these punch cards and data processing machines were the predecessor to the modern computer that powers the world.
+
+#### 4. The Tri-Motor Airplane [(Source)](https://www.wired.com/2012/11/the-decades-that-invented-the-future-part-3-1921-1930/)
+
+![Airplane](https://www.wired.com/wp-content/uploads/images_blogs/gadgetlab/2012/11/ford_trimotor.jpg)
+
+This image shows the Ford Tri-Motor invented in 1926. This is significant because it revolutionized air travel; this airplane allowed up to 10 passengers to be transported on a single plane. The plane was also much faster than planes that came before it.
+
+#### 5. The Traffic Light [(Source)](https://www.wired.com/2012/11/the-decades-that-invented-the-future-part-3-1921-1930/)
+
+![Traffic Light](https://www.wired.com/wp-content/uploads/images_blogs/gadgetlab/2012/11/traffic-light-patent.jpg)
+
+This illustration shows the patent of the first Traffic Light. This is significant because in the early days of the automobile, accidents were very common, this invention helps reduces car accidents. 
 
 ## Inquiry Question<a name="paragraph" />
 
