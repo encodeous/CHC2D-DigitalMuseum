@@ -46,6 +46,18 @@ This image shows the Ford Tri-Motor invented in 1926. This is significant becaus
 
 This illustration shows the patent of the first Traffic Light. This is significant because in the early days of the automobile, accidents were very common, this invention helps reduces car accidents. 
 
+#### 6. Hydro Electricity [(Source 1)](https://www.oldmapsonline.org/map/usgs/5930887/) [(Source 2)](https://www.thecanadianencyclopedia.ca/en/article/technology)
+
+![Niagra Falls](https://ngmdb.usgs.gov/img4/ht_icons/overlay/NY/NY_Niagara%20Falls_462633_1901_62500_geo.jpg)
+
+This image shows a map of the Niagara Region in the 1920s. This map is significant because at the time, Hydro electricity was being developed, and it was essential to provide light and power to urban areas and factories.
+
+#### 7. Telecommunications [(Source)](https://www.techwalla.com/articles/telephones-in-the-1920s)
+
+![The Phone](https://img.techwallacdn.com/630x/cppd/14/154/fotolia_3740529_XS.jpg?type=webp)
+
+This image shows one of the first telephones. This is significant because prior to the 1920s telephones were more of a hobby than other ways of communication; during the 1920s this finally changed, and the telephone was entering the mainstream.
+
 ## Inquiry Question<a name="paragraph" />
 
 ## Bibliography<a name="bibliography" />
