@@ -2,7 +2,7 @@
 layout: default
 published: true
 ---
-# How did advancements in technology during the Great War Era change the lives of Canadians?
+# Technological Advancements in the 1920s
 
 ### Background
 
