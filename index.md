@@ -60,6 +60,10 @@ This image shows one of the first telephones. This is significant because prior 
 
 ## Inquiry Question<a name="paragraph" />
 
+##### How did advancements in technology during the Great War Era change the lives of Canadians?
+
+
+
 ## Bibliography<a name="bibliography" />
 
 *(Due to technical limitations, the bibliography is made in Google Docs to preserve proper formatting)*
