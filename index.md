@@ -10,8 +10,10 @@ published: true
 
 ### Table of Contents
  - [Artifacts](#artifacts)
- - [Inquiry Question](#paragraph)
+ - [Conclusion](#conclusion)
  - [Bibliography](#bibliography)
+
+This website will host **seven** different artifacts that represent a major technological development during this era.
 
 ### Artifacts<a name="artifacts"/>
 
@@ -58,11 +60,11 @@ This image shows a map of the Niagara Region in the 1920s. This map is significa
 
 This image shows one of the first telephones. This is significant because prior to the 1920s telephones were more of a hobby than other ways of communication; during the 1920s this finally changed, and the telephone was entering the mainstream.
 
-## Inquiry Question<a name="paragraph" />
+## Conclusion<a name="conclusion" />
 
 ##### How did advancements in technology during the Great War Era change the lives of Canadians?
 
-
+The 1920s were a period of rapid change. Technologies like radio and home appliances helped improve the quality of life, while the inventions of computing devices allowed businesses to be better managed and more efficient. Other technologies were invented to improve the safety of existing technologies, such as the traffic light. During this period, the government built tech infrastructure such as telecommunications and the power grid. This era laid down the foundations for many of the technologies that the modern era depends on. 
 
 ## Bibliography<a name="bibliography" />
 
