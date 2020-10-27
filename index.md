@@ -64,7 +64,7 @@ This image shows one of the first telephones. This is significant because prior 
 
 ##### How did advancements in technology during the Great War Era change the lives of Canadians?
 
-The 1920s were a period of rapid change. Technologies like radio and home appliances helped improve the quality of life, while the inventions of computing devices allowed businesses to be better managed and more efficient. Other technologies were invented to improve the safety of existing technologies, such as the traffic light. During this period, the government built tech infrastructure such as telecommunications and the power grid. This era laid down the foundations for many of the technologies that the modern era depends on. 
+The 1920s were a period of rapid change. Technologies like radio and home appliances helped improve the quality of life, while the inventions of computing devices allowed businesses to be better managed and more efficient. At the end of the era, many traditional practices were being taken over by new technology. For example, radio news gained enormous popularity which replaced some of the need for print newspaper. Other technologies were invented to improve the safety of existing technologies, such as the traffic light to reduce road accidents. During this period, the government also built tech infrastructure such as telecommunications and the power grid. This era laid down the foundations for many of the technologies that the modern era depends on and had a big impact on the quality of life of Canadians and people around the world.
 
 ## Bibliography<a name="bibliography" />
 
