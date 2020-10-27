@@ -27,7 +27,7 @@ This image shows one of the early radios. It is important to this topic because 
 
 ![Advertisement](https://caperpics.files.wordpress.com/2011/03/sears_wash-scaled600.jpg?w=486&h=656)
 
-This image shows a newspaper advertisement about a new Electric Washer product. This is important to this topic because for the first time in history, people could let the machines do the work— saving people's time.
+This image shows a newspaper advertisement about a new Electric Washer product. This is important to this topic because for the first time in history, people could let the machines do the work, saving people's time.
 
 
 #### 3. IBM's Punchcards [(Source)](https://www.wired.com/2012/11/the-decades-that-invented-the-future-part-3-1921-1930/)
@@ -64,7 +64,7 @@ This image shows one of the first telephones. This is significant because prior 
 
 ##### How did advancements in technology during the Great War Era change the lives of Canadians?
 
-The 1920s were a period of rapid change. Technologies like radio and home appliances helped improve the quality of life, while the inventions of computing devices allowed businesses to be better managed and more efficient. At the end of the era, many traditional practices were being taken over by new technology. For example, radio news gained enormous popularity which replaced some of the need for print newspaper. Other technologies were invented to improve the safety of existing technologies, such as the traffic light to reduce road accidents. During this period, the government also built tech infrastructure such as telecommunications and the power grid. This era laid down the foundations for many of the technologies that the modern era depends on and had a big impact on the quality of life of Canadians and people around the world.
+The 1920s were a period of rapid change. Technologies like radio and home appliances helped with daily life, while the inventions of computing devices allowed businesses to be better managed and more efficient. At the end of the era, many traditional practices were being taken over by new technology. For example, radio news gained enormous popularity which replaced some of the need for print newspaper. Other technologies were invented to improve the safety of existing ones, such as the traffic light to reduce road accidents. During this period, the government also built tech infrastructure such as telecommunications and the development of the power grid. This era laid down the foundations for many of the technologies that the modern era depends on and had a big impact on the quality of life of Canadians and people around the world.
 
 ## Bibliography<a name="bibliography" />
 
